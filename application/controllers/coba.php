@@ -1,4 +1,4 @@
-                     <div class="input-groups">
+                     <div class="input-grosups">
                        <form action="action.php" method="post" enctype="multipart/form-data">
                        <input type="file" name="image" id="profile-img" required/><br>
                                     <img src="" id="profile-img-tag" width="100px" />
