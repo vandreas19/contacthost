@@ -100,7 +100,7 @@ class Contact_book extends CI_Controller{
             redirect('contact_book/index');
         }
         else
-            show_error('The contact_book you are trying to delete does not exist.');
+            show_error('The contact_book you are trying to delete does not exist.');     
     }
     
 }
